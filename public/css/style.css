@@ -1,0 +1,12 @@
+body{
+    background: whitesmoke;
+    -wekit-font-smoothing: antialiased;
+    font-family: 'Muli',sans-serif;
+}
+.comment__box {
+    list-style-type: none;
+    padding-left: 0;
+}
+.comment__box .comment h6{
+    font-weight: 800;
+}
